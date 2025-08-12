@@ -1,4 +1,4 @@
-#python script to send DNS qeueries - written by Cameron Miller, with help from GPT
+#python script to send DNS qeueries - written with help from GPT
 
 import dns.resolver
 import dns.exception
